@@ -41,7 +41,7 @@
                 <div class="card">
                     <div class="card-header">Index</div>
                     <div class="card-body">
-
+                            {{ print_r($response) }}
                     </div>
                 </div>
             </div>
