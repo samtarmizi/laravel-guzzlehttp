@@ -12,3 +12,4 @@
 */
 
 Route::get('/','BaseController@index');
+Route::get('/store','BaseController@store');
